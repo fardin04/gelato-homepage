@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #222;
+}
+
+a:hover {
+  color: #B22234;
+}
+
+button {
+  cursor: pointer;
+}
